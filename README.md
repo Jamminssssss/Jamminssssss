@@ -1,8 +1,3 @@
-### Hi there 👋
-
-
-Here are some ideas to get you started:
-
 - 🔭Hello. My name is Jaemin Park.
 - 🌱 I am studying swift
 - 👯 I want to become an ios developer.
