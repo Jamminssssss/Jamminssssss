@@ -1,5 +1,3 @@
-#🔭Hello. My name is Jaemin
-
 - 🌱 I am studying swift
 - 👯 I want to become an ios developer.
 - 🤔 I started coding because I wanted to relieve the discomfort I felt.
