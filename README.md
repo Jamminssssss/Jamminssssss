@@ -8,7 +8,7 @@
 
 Hello, I'm Jae-min, an iOS developer.
 
-# **Introduce.**
+#Introduce.
 
 Always interested in new learning and interested in applying it to the project. Recently, I've been thinking about MVVM patterns and test codes and I'm interested in them.
 
